@@ -1,2 +1,1 @@
-# smadigangbang
-smadigangbang
+# [smadigangbang](https://smadigangbang.pages.dev)
